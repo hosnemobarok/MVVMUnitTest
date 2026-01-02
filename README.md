@@ -89,7 +89,7 @@ UsersExplorer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/UsersExplorer.git
+git clone https://github.com/hosnemobarok/MVVMUnitTest.git
 ```
 
 2. Open `UsersExplorer.xcodeproj` in Xcode (iOS 15+ recommended).
