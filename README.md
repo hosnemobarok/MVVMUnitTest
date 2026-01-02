@@ -1,8 +1,3 @@
-# MVVMUnitTest
-Here’s a **professional, interview-ready `README.md`** for your **UsersExplorer** project. It’s clear, structured, and highlights all technical decisions, architecture, and instructions.
-
----
-
 # UsersExplorer
 
 **UsersExplorer** is an iOS app built with **UIKit**, following **MVVM-C architecture** and **Repository pattern**, demonstrating fetching and displaying users from the **JSONPlaceholder API**. It is built programmatically, with **Combine** for reactive bindings and clean, testable code.
